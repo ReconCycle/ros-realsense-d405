@@ -1,0 +1,5 @@
+docker-compose.yml
+
+# general stuff
+.vscode/
+.idea/
